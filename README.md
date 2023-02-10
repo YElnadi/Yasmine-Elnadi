@@ -4,4 +4,4 @@ I am a software developer with a background in electronics and communications en
 
 I am passionate about software development because it combines my love for technology with my ability to create and solve complex problems. I find it incredibly fulfilling to see the results of my work come to life and make a positive impact on people's lives.
 
-![code gif](https://media1.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47a8e4504uv2pi965fgoaoxa3espsmnvev6di5tg9z&rid=giphy.gif&ct=g)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![code gif](https://media1.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47a8e4504uv2pi965fgoaoxa3espsmnvev6di5tg9z&rid=giphy.gif&ct=g)
