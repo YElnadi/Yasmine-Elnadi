@@ -24,7 +24,7 @@ I am passionate about software development because it combines my love for techn
 Dish Diva is a web application for food and tech enthusiasts. Its integration of Flask in the backend and React-Redux in the frontend delivers a seamless and comprehensive platform for managing and discovering new recipes.
 With four key features, Dish Diva offers full CRUD functionality for effortless recipe management and creation, including: recipes, ingredients, preparations, and cooking notes. Additionally, the image upload capability powered by AWS S3 enables users to share visual inspiration with the community.
 The user-friendly interface is designed to allow for efficient and intuitive recipe browsing and searching, making the experience of using Dish Diva a positive one.<p>
-[DishDiva](https://dishdiva-t3d2.onrender.com/)<p>
+Live Site: [DishDiva](https://dishdiva-t3d2.onrender.com/)<p>
   
 ------------------------------------------------
   
