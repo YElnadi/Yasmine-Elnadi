@@ -39,8 +39,7 @@ As a full stack software developer, I have had the pleasure of utilizing a range
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YElnadi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcard.yas_elnadi/YElnadi?theme=light&font=Noto%20Serif%20Devanagari)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/yas_elnadi?theme=light&font=Noto%20Serif%20Devanagari)
 -------------------------------------------------
 ### Checkout DishDiva <p>
 Dish Diva is a web application for food and tech enthusiasts. Its integration of Flask in the backend and React-Redux in the frontend delivers a seamless and comprehensive platform for managing and discovering new recipes.
