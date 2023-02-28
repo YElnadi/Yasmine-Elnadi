@@ -8,7 +8,7 @@ As a full stack software developer, I have had the pleasure of utilizing a range
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yasmine-elnadi-117912142/)
 
-(https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47htekf2adgd5rny3n2url92m0ujpuncckz77731lg&rid=giphy.gif&ct=g)
+![code gif](https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47htekf2adgd5rny3n2url92m0ujpuncckz77731lg&rid=giphy.gif&ct=g)
 
 
 ### Used Technologies:
