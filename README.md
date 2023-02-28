@@ -34,6 +34,7 @@ As a full stack software developer, I have had the pleasure of utilizing a range
 
 
 [![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YElnadi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YElnadi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------------------------------
 ### Checkout DishDiva <p>
