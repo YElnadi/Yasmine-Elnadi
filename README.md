@@ -39,7 +39,7 @@ As a full stack software developer, I have had the pleasure of utilizing a range
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YElnadi&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YElnadi?theme=light&font=Noto%20Serif%20Devanagari)
+![LeetCode Stats](https://leetcard.yas_elnadi/YElnadi?theme=light&font=Noto%20Serif%20Devanagari)
 
 -------------------------------------------------
 ### Checkout DishDiva <p>
