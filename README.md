@@ -1,8 +1,10 @@
-# Hi, I'm Yasmine Elnadi :wave:
+### Hi there :wave: my name is Yasmine, welcome to my Github! 
 
-I am a software developer with a background in electronics and communications engineering. I obtained my master's degree in creating a fault-tolerant model in WSN NCS greenhouse architecture, which was able to tolerate the failure of multiple access points while balancing system cost and downtime cost. My work on this project was recognized as I published three papers on IEEE. Before moving to the United States in 2019, I worked as a graduate teaching assistant for three years.
+### About me 🌱
 
-I am passionate about software development because it combines my love for technology with my ability to create and solve complex problems. I find it incredibly fulfilling to see the results of my work come to life and make a positive impact on people's lives.
+I am a full stack software developer with a background in electronics and communications engineering. I worked as a graduate teaching assistant for three years, I taught various engineering courses, but it was during that time that I discovered my passion for teaching structured programming. The field of software development allows me to merge my love for technology with the thrill of creating and solving intricate problems. Witnessing the tangible results of my work coming to fruition and positively impacting people's lives is an incredibly fulfilling experience for me.
+
+as a full stack software developer, I have had the pleasure of utilizing a range of programming languages and technologies including JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML in various projects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![code gif](https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47htekf2adgd5rny3n2url92m0ujpuncckz77731lg&rid=giphy.gif&ct=g)
 
