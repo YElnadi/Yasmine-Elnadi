@@ -2,7 +2,7 @@
 
 ### About me 🌱
 
-I am a full stack software developer with a background in electronics and communications engineering. I worked as a graduate teaching assistant for three years, I taught various engineering courses, but it was during that time that I discovered my passion for teaching structured programming. The field of software development allows me to merge my love for technology with the thrill of creating and solving intricate problems. Witnessing the tangible results of my work coming to fruition and positively impacting people's lives is an incredibly fulfilling experience for me.
+I am a full stack software developer. I worked as a graduate teaching assistant for three years, I taught various engineering courses, but it was during that time that I discovered my passion for teaching structured programming. The field of software development allows me to merge my love for technology with the thrill of creating and solving intricate problems. Witnessing the tangible results of my work coming to fruition and positively impacting people's lives is an incredibly fulfilling experience for me.
 
 As a full stack software developer, I have had the pleasure of utilizing a range of programming languages and technologies including JavaScript, Python, React/Redux, PostgreSQL, Node.js, Express, CSS, and HTML in various projects.
 
@@ -53,9 +53,9 @@ Live Site: [DishDiva](https://dishdiva-t3d2.onrender.com/)<p>
   
 ### Reach out!
 
-[WellFound](https://angel.co/u/yasmine-elnadi)
-
 [LinkedIn](https://www.linkedin.com/in/yasmine-elnadi-117912142/)
 
 yaselnadi@gmail.com
+
+//I worked as a graduate teaching assistant for three years, I taught various engineering courses, but it was during that time that I discovered my passion for teaching structured programming.
 
